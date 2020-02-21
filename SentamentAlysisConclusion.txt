@@ -1,0 +1,5 @@
+We analysed sentiment by assigning emotion to words and looked at word combination to decide what tweets were positive and negative, from our findings we found what follows.
+
+The Greta data set has a mostly nuetral sentament alalysis meaning that most people don't have a strong opinion negative or positive about the subject.  Overall, the feeling was slightly more positive than negative, the positive sentiment was 8 points more than the negative sentament on a scale out of 100.
+
+The paris data set was quite a bit more positive, with positive sentiment winning over negative by 25 points, or a quarter of 100. 
